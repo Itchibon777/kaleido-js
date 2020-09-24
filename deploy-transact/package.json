@@ -8,7 +8,7 @@
     "dependencies": {
         "@azure/keyvault": "^0.1.0",
         "@azure/ms-rest-nodeauth": "^1.0.1",
-        "adal-node": "^0.1.28",
+        "adal-node": "^0.2.1",
         "azure-keyvault": "^3.0.4",
         "ethereumjs-tx": "^1.3.3",
         "fs-extra": "^7.0.0",
