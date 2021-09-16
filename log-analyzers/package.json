@@ -3,6 +3,6 @@
   "version": "0.0.1",
   "description": "Analyzing logs from blockchain nodes",
   "dependencies": {
-    "yargs": "^13.1.0"
+    "yargs": "^15.0.1"
   }
 }
